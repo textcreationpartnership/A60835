@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reflections on a model now in projection by the Presbyterian dissenters with a circular letter intimating it.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60835</idno>
+            <idno type="STC">Wing S4583</idno>
+            <idno type="STC">ESTC R17952</idno>
+            <idno type="EEBO-CITATION">11936303</idno>
+            <idno type="OCLC">ocm 11936303</idno>
+            <idno type="VID">51194</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51194)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:46)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reflections on a model now in projection by the Presbyterian dissenters with a circular letter intimating it.</title>
+                  <author>W. T.</author>
+               </titleStmt>
+               <extent>20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Circular letter signed: W.T.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England.</term>
+               <term>Presbyterianism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51194:1"/>
+            <p>SOME REFLECTIONS ON A MODEL <hi>NOW</hi> IN Projection BY THE Presbyterian Diſſenters.</p>
+            <p>WITH A CIRCULAR LETTER Intimating It.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>E. Whitlock</hi> near <hi>Stationers-Hall,</hi> MDCXCVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:51194:2"/>
+            <pb n="3" facs="tcp:51194:2"/>
+            <head>The Circulary Letter.</head>
+            <opener>
+               <dateline>Newbery, <date>June 7. 98.</date>
+               </dateline> For Mr. <hi>S.</hi> Miniſter of the Goſpel in <hi>Oxford.</hi>
+               <lb/>
+               <salute>Reverend Sir,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Had a Letter laſt Week by the Direction of the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> of <hi>Miniſters</hi> and <hi>Gentlemen,</hi> appointed at <hi>London</hi> for ſetling a Correſpondence of the Proteſtant Diſſenting Miniſters and Congregations throughout this Kingdom; for the Advancement of the Intereſt of Reli<g ref="char:EOLhyphen"/>gion, and Reformation of Manners; with the Articles there agreed upon in order thereunto; and I deſire you, Commu<g ref="char:EOLhyphen"/>nicate them ſpeedily to the Brethren in theſe Parts: And if poſſible, a General Meeting muſt be had this Summer in <hi>London.</hi>
+            </p>
+            <p>Purſuant thereunto, it is deſired that you would not fail to come your ſelf, and bring with you one Prudent Perſon of your Congregation, Choſen for that End, accord<g ref="char:EOLhyphen"/>ing to the Method reſolved on at <hi>London,</hi> to meet ſeve<g ref="char:EOLhyphen"/>ral of the Brethren, and the Members of their reſpective Congregations here at <hi>Newbery,</hi>on <hi>Wedneſday</hi> the 22 Inſtant, to conſider of the ſaid Propoſals; which ſhall be laid before you, and the proper Method to Attain ſo de<g ref="char:EOLhyphen"/>ſirable an End.</p>
+            <pb n="4" facs="tcp:51194:3"/>
+            <p> You are deſired to be here on <hi>Tueſday</hi> in the Evening that we may enter on our Work on <hi>Wedneſday</hi> Morning, Reſolving God willing, to ſpend ſome time in Prayer be<g ref="char:EOLhyphen"/>fore we begin. I am</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Affectionate Brother and Servant in the Lord, <hi>W. T.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="5" facs="tcp:51194:3"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>ON the Receipt of yours, I laboured to get the fulleſt Account of that <hi>Project;</hi> which in a <hi>Circular Letter,</hi> directed to another of your Name, fell by Chance into your Hands: But by all the In<g ref="char:EOLhyphen"/>tereſt I can make with that ſort of Men, I find it impoſſible for me to penetrate into the Bottom of the Contrivance; or inform my ſelf from what Spring it had its Riſe; and therefore muſt be Con<g ref="char:EOLhyphen"/>tent with the Light your Paper gives me of it; only I muſt confeſs, that whatever may be hereafter Attempted, I am of Opinion, that at preſent it is but in <hi>Propoſition</hi> and <hi>Deſign.</hi>
+            </p>
+            <p>But, tho' neceſſitated to this Brevity about your <hi>Enquiry,</hi> I will be more large in ſhewing the <hi>Illega<g ref="char:EOLhyphen"/>lity</hi> of their <hi>Model:</hi> And to this End, I will, as a Foundation of what I have to ſay, ſet down the <hi>Project;</hi> and give my Reaſons why I judge it to be <hi>Illegal,</hi> and <hi>Unſafe</hi> for them to Ripen it into <hi>Act.</hi>
+            </p>
+            <p>The Project, if I take you right, is as follows: 1. There are to be Leſſer Meetings of their Mini<g ref="char:EOLhyphen"/>ſters; and one or two Lay-Elders of every Congre<g ref="char:EOLhyphen"/>gation within a certain <hi>Diſtrict</hi> every Three Months: That is (as I underſtand it, and I think with good Reaſon) there muſt be <hi>Claſſical Aſſemblies</hi> every three Months.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:51194:4"/> 2. Theſe Leſſer Aſſemblies, or <hi>Claſſes,</hi> are to chooſe one Miniſter, and <hi>two</hi> other <hi>Diſcreet Perſons</hi> or Lay-Elders of their Number, to manage a Cor<g ref="char:EOLhyphen"/>reſpondence either with the Larger Meetings in the Country, or the General Aſſembly in <hi>London.</hi>
+            </p>
+            <p n="3">3. That there be an Union of ſeveral <hi>Diſtricts</hi> or <hi>Claſſes</hi> in one <hi>Larger Meeting</hi> once every Six Months, where the Miniſters and Lay-Elders of the ſaid <hi>Claſſes</hi> ſhall meet, either in Perſon, or by their <hi>Repreſenta<g ref="char:EOLhyphen"/>tives,</hi> called by 'em <hi>Delegates.</hi>
+            </p>
+            <p n="4">4. That this Aſſembly do Appoint <hi>One Perſon</hi> to manage the Correſpondence, (i. e.) as I conceive, a <hi>Praeſes;</hi> who in Vacancy of this <hi>Provincial Council,</hi> is in Conjunction with other <hi>Preſidents;</hi> and the <hi>General Committee</hi> in <hi>London,</hi> to maintain the Corre<g ref="char:EOLhyphen"/>ſpondence for the better Government of their <hi>Church.</hi>
+            </p>
+            <p n="5">5. The <hi>Larger</hi> or <hi>Provincial Aſſemblies</hi> ſhall ſend one Miniſter, and one Lay-Elder as their <hi>Delegates,</hi> to a General Meeting to be held once a Year in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> or oftner if Occaſion (not the King) requireth it.</p>
+            <p n="6">6. That theſe <hi>Delegates</hi> bring with them Teſti<g ref="char:EOLhyphen"/>monials of their <hi>Delegations.</hi>
+            </p>
+            <p n="7">7. That the Miniſters do carefully obſerve, and faithfully relate to the <hi>Provincial,</hi> and <hi>National Aſſem<g ref="char:EOLhyphen"/>blies</hi> the State of their Congregations <hi>reſpectively.</hi>
+            </p>
+            <p n="8">8. That the whole be <hi>digeſted</hi> into a <hi>Method,</hi> and Recorded in a Regiſter.</p>
+            <pb n="7" facs="tcp:51194:4"/>
+            <p> This is I think, a true and impartial Account of their <hi>New-Model,</hi> which is no more nor leſs than a <hi>National Church-form,</hi> wanting nothing that is Eſ<g ref="char:EOLhyphen"/>ſential thereunto: For 1. The <hi>Deſign</hi> is the ſettlement of Matters Eccleſiaſtical, according to their own <hi>Methods</hi> and <hi>Rules.</hi> 2. They have <hi>Ordained</hi> that there be <hi>Eccleſiaſtical, Provincial,</hi> and <hi>National Aſſemblies,</hi> anſwerable to the <hi>Dioceſan, Provincial,</hi> and <hi>National Convocations.</hi> 3. Their <hi>Power</hi> is ſtretched unto the ut<g ref="char:EOLhyphen"/>moſt Parts of the Kingdom, taking in every one that will ſubmit unto them; which is the moſt our Church can do during the <hi>Suſpenſion</hi> of <hi>Penal Laws.</hi> 4. They have appointed <hi>ſtated Aſſemblies, Provincial,</hi> and <hi>National,</hi> to be held without the <hi>King's Writ of Summons,</hi> who are to agree on <hi>Rules</hi> for <hi>Church Go<g ref="char:EOLhyphen"/>vernment</hi> without a <hi>Commiſſion</hi> from the <hi>King,</hi> and ſend them forth tho' not <hi>confirmed</hi> by the <hi>King's Letters Patents,</hi> which our Church cannot do, without in<g ref="char:EOLhyphen"/>curring Grievous Penalties; They aſſume to them<g ref="char:EOLhyphen"/>ſelves an unlimited Power, and want only the For<g ref="char:EOLhyphen"/>mality of a Law to give to their <hi>General Meetings</hi> the Names of <hi>Magna ſervorum Dei Frequentia,</hi> and <hi>Church-Gemote,</hi> as alſo that of <hi>Convocation,</hi> or <hi>Synodical Con<g ref="char:EOLhyphen"/>vention.</hi>
+            </p>
+            <p>The next thing of which I'll give you a View, is the <hi>Reaſons</hi> proving the <hi>Illegality</hi> of this <hi>National-Church-Form,</hi> and the <hi>Danger</hi> of putting it into <hi>Act,</hi> or <hi>Execution.</hi>
+            </p>
+            <pb n="8" facs="tcp:51194:5"/>
+            <p> Firſt then, it's well known to the Learned in our Laws, That <hi>none</hi> of his Majeſty's <hi>Liege People</hi> of what denomination ſoever may Aſſemble to <hi>Entreat</hi> of Matters <hi>Eccleſiaſtical</hi> for the Reformation of Man<g ref="char:EOLhyphen"/>ners, <hi>as in the Caſe before us,</hi> unleſs called by the King's Writ; nor may they without the <hi>Royal Aſſent</hi> en<g ref="char:EOLhyphen"/>treat of, or make any <hi>Conſtitutions, Rules,</hi> or <hi>Cannons</hi> by what <hi>Name</hi> or <hi>Names</hi> ſoever they are called; nor can they Promulge, or Execute them when made, until <hi>confirm'd by Letters Pattents</hi> under the <hi>Great-Seal</hi> with<g ref="char:EOLhyphen"/>out incurring the Penalty of 25 <hi>H.</hi> 8. <hi>c.</hi> 19. whereby 'tis Enacted, <hi>That none ſhall promulge, or execute any Can<g ref="char:EOLhyphen"/>nons, Conſtitutions, or Ordinances Provincial by whatſo<g ref="char:EOLhyphen"/>ever Name or Names they may be called in time Coming which ſhall be aſſembled by Authority of the King's Writ, unleſs the ſame Clergy may have the King's moſt Royal Aſſent to make, promuige, and execute ſuch Cannons Pro<g ref="char:EOLhyphen"/>vincial, or Synodal, upon pain of every one doing contra<g ref="char:EOLhyphen"/>ry to this Act, and being thereof Canvict, to ſuffer Impri<g ref="char:EOLhyphen"/>ſonment, and make Fine at the King's Will.</hi>
+            </p>
+            <p>The <hi>Crime</hi> is manifeſt, and ſo is the <hi>Penalty;</hi> ſo that in caſe the <hi>Diſſenting Miniſters</hi> ſhall have their Aſſemblies, whether <hi>Claſſical, Provincial,</hi> or <hi>Natio<g ref="char:EOLhyphen"/>nal,</hi> and entreat of, make, promulge, or put in Exe<g ref="char:EOLhyphen"/>cution any <hi>Cannons, Conſtitutions,</hi> or <hi>Rules,</hi> by what <hi>Name</hi> or <hi>Names</hi> ſoever they are called: Or, if there hath been an Aſſembly, whether of Twenty Four of their Clergy alone, or part <hi>Clergy,</hi> part <hi>Lay-Elders,</hi> who have formed, promulged, and put in Execution
+<pb n="9" facs="tcp:51194:5"/>divers Rules about Matters Eccleſiaſtical, in either of theſe Caſes they fall within the Words of this Act, and are lyable to the <hi>Pains</hi> of <hi>Impriſonment,</hi> and of <hi>making Fine at the King's Will.</hi>
+            </p>
+            <p>Secondly, If theſe Men ſhall at any time preſume to make, or put in Execution any <hi>Cannons</hi> or <hi>Rules</hi> about <hi>Claſſical, Provincial,</hi> or <hi>National</hi> Aſſemblies, ſuch Rules are not only againſt the <hi>King's Preroga<g ref="char:EOLhyphen"/>tive,</hi> but <hi>Contrariant,</hi> and <hi>Repugnant</hi> to the <hi>Laws</hi> and <hi>Statutes</hi> of <hi>this Realm,</hi> and the Pain no leſs than a <hi>Premunire.</hi>
+            </p>
+            <p>In 25 <hi>H.</hi> 8. <hi>cap.</hi> 19. there is a <hi>Proviſo</hi> againſt all ſuch Conſtitutions, Cannons, or Rules. It is in theſe words: <hi>Provided always, that no Cannons, Conſtitu<g ref="char:EOLhyphen"/>tions, or Ordinances ſhall be made, or put in Execution within this Realm, by Authority of the Convocations of the Clergy, which ſhall be Contrariant, or Repugnant to the King's Prerogative Royal, or the Cuſtoms, Laws, or Statutes of this Realm,</hi> &amp;c.</p>
+            <p>Now if a Convocation called by the King's Writ, and enabled by the <hi>Royal Licence</hi> to make Cannons, may not make, nor put in Execution ſuch as are Repugnant to the <hi>King's Prerogative,</hi> &amp;c. much leſs may any Aſſembly of the King's Liege People do ſo, who have neither the <hi>King's Writ,</hi> nor <hi>Royal Li<g ref="char:EOLhyphen"/>cence.</hi> And it's Remarkable, that 'twas the Opinion of the Learned in the Law, That had not the Aſ<g ref="char:EOLhyphen"/>ſembly of 1640. been a <hi>Convocation,</hi> the Cannons then made, would have been (according to the
+<pb n="10" facs="tcp:51194:6"/>
+               <hi>Vote</hi> of the enſuing Parliament) <hi>againſt the Funda<g ref="char:EOLhyphen"/>mental Laws of the Realm;</hi> and againſt the <hi>King's Prerogative;</hi> whereby they would have juſtly incur<g ref="char:EOLhyphen"/>red a <hi>Premunire.</hi>
+            </p>
+            <p>The Laws of this Land are ſo Tender in this Point, that about Church-Matters they'll not admit of the leaſt <hi>Uſurpation,</hi> or <hi>Incroachment</hi> on the <hi>King's Prerogative:</hi> For inſtance, If the King by his <hi>Let<g ref="char:EOLhyphen"/>ters Patents</hi> ſhould appoint one to be a Biſhop, and limit the <hi>Dean</hi> and <hi>Chapter</hi> to Chooſe, and the <hi>Arch-Biſhop</hi> to Conſecrate him within Twenty Days, and they Act contrary to this <hi>Limitation,</hi> they do there<g ref="char:EOLhyphen"/>by run into the Dangers, Pains and Penalties of the Statute of <hi>Proviſors,</hi> and <hi>Premunire</hi> made in 25 <hi>E.</hi> 3. <hi>cap.</hi> 1. and 16 <hi>R.</hi> 2. <hi>cap.</hi> 5. Ay, and their Aiders, Coun<g ref="char:EOLhyphen"/>ſellers, and Abettors, incur the ſame Puniſhment by 25 <hi>H.</hi> 8. <hi>cap.</hi> 20.</p>
+            <p>Theſe Gentlemen then, ſhould they promulge, or put in Execution any Rules contrariant to the King's Prerogative; the Incroachment hereby made upon it, is much greater than what is done in the Caſe aforeſaid, and the Penalties not leſs: And it's certain, that all Rules made for the Calling of <hi>Pro<g ref="char:EOLhyphen"/>vincial</hi> or <hi>National</hi> Aſſemblies; without the <hi>King's Writ,</hi> is to the <hi>Diſberiſon</hi> of the Crown. And <hi>they,</hi> their <hi>Aiders, Counſellors,</hi> and <hi>Abettors,</hi> cannot eſcape a <hi>Premunire.</hi>
+            </p>
+            <pb n="11" facs="tcp:51194:6"/>
+            <p> Beſides, the appointing <hi>Claſſical, Provincial,</hi> and <hi>National Aſſemblies</hi> about <hi>Church-Matters,</hi> is not only a Blow at the <hi>King's Prerogative,</hi> but at the <hi>Cuſtoms, Laws,</hi> and <hi>Statutes</hi> of this <hi>Realm:</hi> For whatever is againſt the <hi>Prerogative Royal,</hi> hath been always deem<g ref="char:EOLhyphen"/>ed to be <hi>contrariant</hi> to the <hi>Common Law</hi> of the <hi>Land,</hi> as what is contrary to <hi>Common Law</hi> is alſo againſt God's Law. <hi>Ley d'Angleter eſt found'n ſur le Ley de Dieu.</hi> And <hi>Ley de Exe, &amp; Ley de Dieu ſont tout un. <hi>The Law of</hi> England <hi>is founded upon the Law of God.</hi> And, <hi>The Law of the Land, and the Law of God are all one:</hi>
+               </hi> And conſequently, Incroachments on the <hi>King's Preroga<g ref="char:EOLhyphen"/>tive,</hi> are not only to the prejudice and diſheriſon of the <hi>King</hi> and of his <hi>Crown,</hi> but to the <hi>diſheriſon</hi> of all his <hi>Subjects,</hi> and to the <hi>undoing,</hi> and <hi>deſtruction</hi> of the <hi>Common Law</hi> of this <hi>Realm;</hi> as may be ſeen in the Preamble of the Statute of 27 <hi>E.</hi> 3. <hi>cap.</hi> 1. Further<g ref="char:EOLhyphen"/>more,</p>
+            <p>
+               <hi>Rules</hi> about <hi>Claſſical, Provincial,</hi> and <hi>National Aſ<g ref="char:EOLhyphen"/>ſemblies</hi> as to <hi>Matters Eccleſiaſtical,</hi> are not only <hi>conſe<g ref="char:EOLhyphen"/>quentially,</hi> but <hi>directly</hi> againſt the Laws of the Land, as they are contrary to the <hi>Rubricks</hi> and <hi>Cannons;</hi> and thoſe Statutes which have confirm'd and eſtabliſh'd them.</p>
+            <p>That <hi>Rules</hi> about <hi>Claſſical, Provincial,</hi> and <hi>Natio<g ref="char:EOLhyphen"/>nal Aſſemblies,</hi> are againſt the Cannons of 1603. is too obvious and plain to be denied: And my Lord Chief Juſtice <hi>Vaughan</hi> avers, <hi>That if Cannon Law be
+<pb n="12" facs="tcp:51194:7"/>made part of the Law of this Land, then is it as much the Law of the Land, and as well, and by the ſame Au<g ref="char:EOLhyphen"/>thority as any other part of the Law of the Land.</hi> Edes &amp; Walt. Biſhop of <hi>Oxford's</hi> Caſe. And <hi>whatever is the Law of the Kingdom, is as much the Law as any thing elſe that is ſo; for what is Law doth not,</hi> ſuſcipere magis aut minus, <hi>Hill</hi> &amp; <hi>Good's.</hi>
+            </p>
+            <p>And the Cannons of 1603. are Eſtabliſhed by 25 <hi>H.</hi> 8. <hi>cap.</hi> 18. For the <hi>Convocation</hi> in which they were made, was called by the <hi>King's Writ,</hi> and ena<g ref="char:EOLhyphen"/>bled by the King's Commiſſion to entreat, make, and promulge Cannons and Conſtitutions which were confirmed by <hi>Letters Patents</hi> under the Great Seal. Beſides, Cannons for the ſetting up Aſſem<g ref="char:EOLhyphen"/>blies, <hi>&amp;c.</hi> are directly <hi>contrariant,</hi> and <hi>repugnant</hi> unto the <hi>Act</hi> of <hi>Uniformity,</hi> by which the Government of our Church is Eſtabliſhed: So that ſhould theſe Gentlemen make any ſuch <hi>Cannons</hi> or <hi>Rules,</hi> 'twill be impoſſible for them to Eſcape a <hi>Premunire.</hi> They muſt not think to come off by telling us, They de<g ref="char:EOLhyphen"/>ſign not to intermeddle with the <hi>National Church-Form;</hi> nor to ſet up an <hi>Eccleſiaſtical Juriſdiction,</hi> but only a <hi>Brotherly,</hi> and <hi>amicable Correſpondence:</hi> That they uſe not the Terms <hi>Claſſical, Provincial,</hi> or <hi>Nati<g ref="char:EOLhyphen"/>onal:</hi> Nor do they impoſe any Cannons or Conſti<g ref="char:EOLhyphen"/>tutions upon their Brethren: They do but ſend them their Propoſals or Methods for Regulating their Correſpondencies. To which 'tis anſwered:</p>
+            <p n="1">
+               <pb n="13" facs="tcp:51194:7"/> 1. That this is but <hi>Proteſtatio, facto contrario,</hi> it be<g ref="char:EOLhyphen"/>ing evident they deſign the Regulating ſuch matters as are of <hi>Eccleſiaſtical Conuſance,</hi> as the advancing <hi>Religion, Unity,</hi> and <hi>Love,</hi> and the Reformation of Manners are.</p>
+            <p n="2">2. The Project propoſed is a <hi>National Church-form.</hi> For in it are Cannons appointing ſtated Times for their ſeveral Aſſemblies, and ordaining, that they ſhall be made up of Miniſters and Lay-Elders; and that they ſhall be of three diſtinct ſorts, as the Eſta<g ref="char:EOLhyphen"/>bliſhed Aſſemblies are; ſo that tho' they uſe not the Terms <hi>Claſſical, Provincial,</hi> and <hi>National,</hi> yet they ſecure the Thing.</p>
+            <p n="3">3. Tho' they do carefully lay aſide the word <hi>Claſſical,</hi> leſt by its uſe they ſhould frighten us, before they have maturated what is now in deſign; yet have they ſelected other Terms, importing <hi>Juriſdiction</hi> in uſing the word <hi>Diſtricts,</hi> into which they have diſtributed their ſeveral Congregations. For <hi>Diſtri<g ref="char:EOLhyphen"/>ctus eſt Tractus, in quo Dominus Vaſallos, &amp; Tenentes ſuos diſtringere poteſt: Juſtitiae exercendae in eo tractu facultas.</hi> Whence it is <hi>lib.</hi> 2. <hi>Teudor. Tit.</hi> 54. <hi>Qui allodium vendiderit diſtrictum &amp; Juriſdictionem Impe<g ref="char:EOLhyphen"/>ratoris vendere non praeſumat.</hi> Beſides, the Clergy have adopted it, and Pope <hi>Boniface</hi> in his Bull <hi>anno</hi> 1033. has Conſecrated it, <hi>Maneantque ſub Judicio, &amp; Diſtrictu veſtro.</hi> Agreeably hereunto the leſſer, and larger <hi>Diſtricts</hi> are to ſend unto the <hi>General Aſ<g ref="char:EOLhyphen"/>ſembly
+<pb n="14" facs="tcp:51194:8"/>in</hi> London their <hi>Delegates,</hi> to whom they give in their Teſtimonials, or <hi>Dedimus poteſtatem,</hi> or <hi>Com<g ref="char:EOLhyphen"/>miſſion.</hi> For <hi>Delegatus is dicitur,</hi> which for the moſt part in the underſtanding of the Common Law, is as much as <hi>Delegatio</hi> with the Civilians. For <hi>Dele<g ref="char:EOLhyphen"/>gatus is dicitur, cui Cauſa committitur terminanda, vel exequenda vices delegantis repraeſentans, &amp; in Juriſdicti<g ref="char:EOLhyphen"/>one nihil proprium habens:</hi> The reaſon is, becauſe <hi>De<g ref="char:EOLhyphen"/>legatus Juriſdictionem non ſuo Jure, ſed alieno beneficio habet.</hi> They have alſo their Committees, that is, Perſons to whom the conſideration, and ordering their Church Matters is committed, which is uſual in Convocations as well as Parliaments: And their National Aſſembly they call <hi>General Committee,</hi> per<g ref="char:EOLhyphen"/>haps to tell us they'll imitate their Neighbours, and be as Parliamentary in their Proceedings as may be; and to this end, Reſolve their Aſſembly into a Com<g ref="char:EOLhyphen"/>mittee of the whole Houſe: In a word, they have alſo a <hi>Regiſter,</hi> that is, <hi>Books,</hi> or <hi>Rolls,</hi> wherein are Recorded the Proceedings of their <hi>Spiritual Court.</hi>
+            </p>
+            <p n="4">4. Tho' they call not their Propoſals by the Names of <hi>Conſtitutions, Cannons,</hi> or <hi>Ordinances,</hi> yet are they of the ſame Nature; and being deſigned for the re<g ref="char:EOLhyphen"/>gulating Matters of Eccleſiaſtical Conuſance, they are within 25 <hi>H.</hi> 8. <hi>cap.</hi> 19. And it's well known, that when ſeveral Pariſh Miniſters of the Puritan way, had in the Reign of the Queen, their Aſſem<g ref="char:EOLhyphen"/>blies at <hi>Wadſworth, London, Oxford, Northamptonſhire,</hi>
+               <pb n="15" facs="tcp:51194:8"/>and other Places, tho' with a Proteſtation, 'twas only in <hi>Subordination,</hi> and not in <hi>Oppoſition</hi> to the <hi>Eſta<g ref="char:EOLhyphen"/>bliſhed Government;</hi> and tho' they acted with much greater Caution than theſe Gentlemen, (if they go on with their Project) do, yet could they not eſcape <hi>Impriſonment</hi> and <hi>Ruine:</hi> And it muſt be confeſſed, that the Methods taken by the Popes to get their Decrees received by the Engliſh Church, was by Cloathing 'em under ſoft Names, and modeſt Terms, ſuch as <hi>Rogationes;</hi> which they intreated us for the promoting of Holineſs to ſubmit unto.</p>
+            <p>Once more, the Statutes of Proviſors are ſo ſtrictly penned againſt Offenders, that the laying aſide the Common Terms in uſe amongſt Eccleſiaſticks, and taking up new ones, cannot Skreen them from the Pains and Dangers of a <hi>Praemunire.</hi> For they do ex<g ref="char:EOLhyphen"/>tend, not only to Uſurpations and Incroachments made on the Royal Power by <hi>Papiſts,</hi> but to all Per<g ref="char:EOLhyphen"/>ſons whatſoever (as my Lord <hi>Cook</hi> ſaith) of what Quality or Sex ſoever; The words be, <hi>If any.</hi>
+            </p>
+            <p n="2">2. To all Courts of what Juriſdiction ſoever, or whether holden by <hi>Right,</hi> or by <hi>Wrong;</hi> the word <hi>alibi,</hi> is of a large Extent, ſo large you ſee, as to take in theſe Gentlemens ſtated Aſſemblies for Re<g ref="char:EOLhyphen"/>formation of Abuſes, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. To all Things whatſoever, <hi>Where any thing;</hi> which words are as general as can be, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">
+               <pb n="16" facs="tcp:51194:9"/> 3. There are ſome Circumſtances affecting the <hi>Convocation</hi> of 1640. which may juſtly frighten theſe Gentlemen from having any hand in ſuch a Project: For it's certain that this Convocation was called by the <hi>King's Writ;</hi> That as ſoon as they aſſembled, the Archbiſhop produced a <hi>Commiſſion</hi> under the <hi>Great Seal,</hi> by Authority whereof they might, according to 25 <hi>H.</hi> 8. <hi>cap.</hi> 19. <hi>propoſe, entreat, conſult,</hi> and <hi>agree</hi> on what <hi>Orders, Cannons,</hi> or <hi>Conſtitutions</hi> they ſhould judge meet, keeping within the Limitations of the ſaid Statute: And when they had Enacted their Cannons, and had the Royal Confirmation by <hi>Let<g ref="char:EOLhyphen"/>ters Patents</hi> under the <hi>Great Seal,</hi> yet were they Vo<g ref="char:EOLhyphen"/>ted by the Houſe of Commons in the following Parliament, to be <hi>againſt the Fundamental Laws of the Realm, againſt the King's Prerogative, Property of the Subject, the Right of Parliament, and to tend to Faction and Sedition.</hi>
+            </p>
+            <p>The Reaſons of this Vote were many, ſome of which were: 1. That upon the Diſſolution of the Parliament the Convocation was determined; and what Cannons or Rules ſoever are made in an Aſſem<g ref="char:EOLhyphen"/>bly not Called by the <hi>King's Writ,</hi> are againſt the Prerogative Royal, and ſuch are the <hi>Claſſical, Pro<g ref="char:EOLhyphen"/>vincial,</hi> and <hi>National Meetings</hi> of theſe Diſſenters.</p>
+            <p n="2">2. The Cannons then enacted were againſt ſome <hi>Rubricks</hi> in the Service Book, and contrary unto ſome of the XXXIX Articles, which is as true of thoſe
+<pb n="17" facs="tcp:51194:9"/>Rules in the Diſſenters Project: For contrary to the Eſtabliſhed Government by <hi>Biſhops, Archbiſhops,</hi> &amp;c. They have ſet up a National Church Govern<g ref="char:EOLhyphen"/>ment by <hi>Miniſters,</hi> and <hi>Lay-Elders</hi> in their various Meetings, <hi>ut ſupra.</hi>
+            </p>
+            <p>This brief Account may ſhew them what appear<g ref="char:EOLhyphen"/>ance of Law this Convocation of 1640. and the Cannons then made, had: And yet for the Reaſons aforeſaid, the Clergy who acted therein, did then, as was Voted by that Parliament (we may call <hi>Whiggiſh</hi>) fall into the Pains and Dangers of a <hi>Prae<g ref="char:EOLhyphen"/>munire,</hi> as is to this Day the Opinion of our Learned and Reverend Judges, and other great Lawyers in <hi>Weſtminſter-hall.</hi>
+            </p>
+            <p>How much rather then may they be ſuppoſed to incur the ſame Penalties, who ſhall come to a Gene<g ref="char:EOLhyphen"/>ral Meeting that is not called by the <hi>King's Writ,</hi> agree on <hi>Rules</hi> about <hi>Church-matters</hi> without the <hi>Roy<g ref="char:EOLhyphen"/>al Licence;</hi> and tho' they have not <hi>Letters Patents</hi> un<g ref="char:EOLhyphen"/>der the <hi>Great Seal</hi> for their <hi>Confirmation,</hi> promulge, and execute them, ſome of which are againſt the <hi>Rubricks, Articles,</hi> and <hi>Cannons</hi> by Law Eſtabliſhed.</p>
+            <p n="4">4. This Project, altho' in its <hi>appearance,</hi> and <hi>trueſt Complection</hi> doth moſt reſemble the late <hi>National Church-form</hi> amongſt the <hi>French Hugonots,</hi> which was granted them by ſundry <hi>Edicts,</hi> yet they were never ſo bold as to ordain, and appoint <hi>National Aſſemblies</hi> at any time, but when <hi>Lieenſed</hi> by their <hi>Kings;</hi> and
+<pb n="18" facs="tcp:51194:10"/>more than ſeventy years by-gone, 'twas ordained by <hi>Letters Patents,</hi> and <hi>verified</hi> in the Court of <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> That in all Aſſemblies of the King's Subjects of the Reformed Religion, one of his Majeſties Of<g ref="char:EOLhyphen"/>ficers, being of the ſame Religion, ſhould aſſiſt in Perſon, and ſee that nothing ſhould be propounded and handled amongſt them, but ſuch Matters as were permitted by his Edicts.</p>
+            <p>The <hi>French</hi> Kings were ſo very Jealous of their Clergy leſt they ſhould incroach upon the <hi>Regalia,</hi> that they would never ſuffer them of the <hi>Romiſh Faith</hi> to come together, but when called by Authority of the King; and when aſſembled divers <hi>Tituli</hi> or <hi>Capi<g ref="char:EOLhyphen"/>tula,</hi> containing Directions how to proceed, and what to enter upon, were ſent to 'em; whereupon the Clergy when aſſembled, did in their <hi>Synodical Epiſtles,</hi> aſſure their Prince, that they acted <hi>Secun<g ref="char:EOLhyphen"/>dum voluntatis veſtrae conſultationem, &amp; Titulos quos de<g ref="char:EOLhyphen"/>diſtis.</hi>
+            </p>
+            <p>This was not a Practice only in the <hi>Gallican,</hi> but long before in the Catholick Church. For <hi>Dionyſius Comes</hi> was ſent by <hi>Conſtantine</hi> to the Council at <hi>Tyre, Ut Animadverſor eſſet, &amp; Cuſtos Conſervandae Aequabilitatis, &amp; Ordinis. Candidianus</hi> was ſent by <hi>Theodoſius</hi> upon the ſame Score to the <hi>Epheſine Synod.</hi>
+            </p>
+            <p>If then neither Proteſtant, nor Papiſt, nor the Modern, nor Ancient Clergy could hold a <hi>General Aſſembly,</hi> unleſs called by the <hi>King's Writ,</hi> nor en<g ref="char:EOLhyphen"/>ter
+<pb n="19" facs="tcp:51194:10"/>upon any Buſineſs concerning the State of the Church, without the King's Licence, and certain <hi>Capitula,</hi> or an <hi>Animadverſor</hi> of the Kings and Em<g ref="char:EOLhyphen"/>perors Appointment, How is it that theſe Diſſent<g ref="char:EOLhyphen"/>ers, without either Summons or Licence, without an <hi>Animadverſor</hi> or <hi>Capitula,</hi> dare appoint Stated, Provincial, and National <hi>Aſſemblies,</hi> and frame Rules and Cannons in prejudice to the King, and his Crown, and <hi>contrariant,</hi> and <hi>repugnant</hi> to the Cuſtoms, Laws, and Statutes of this Realm?</p>
+            <p>SIR,<lb/> What I have thus briefly offer'd to prove the <hi>Illegality</hi> of this Project, and the <hi>Danger</hi> of putting what is yet but in <hi>Deſign,</hi> into <hi>Act,</hi> or <hi>Execution,</hi> may ſatisfie you, that the Uttermoſt the unquiet Party among the Diſſenters can do, is to Alarm the <hi>True Sons</hi> of our Holy Mother the Church of <hi>England,</hi> to take heed, That whilſt Liberty is given to the Conſciencious amongſt them, the <hi>Li<g ref="char:EOLhyphen"/>centious</hi> be not ſuffer'd to Undermine and Subvert the <hi>National Eſtabliſhment,</hi> as this Project muſt needs do, if They meet not with a timely Check, by putting the ſaid Laws in Execution againſt thoſe Ill-deſigning, diſcontented Gentlemen, as ſoon as ever they ſhall be guilty of the firſt Breach, which their bare Aſſembling in order to the Ripening this Project will apparently be, and expoſe all con<g ref="char:EOLhyphen"/>cern'd
+<pb n="20" facs="tcp:51194:11" rendition="simple:additions"/>to the <hi>Exemplary,</hi> and <hi>Merited</hi> Puniſhment inflicted on ſuch Bold Undertakers, as can Con<g ref="char:EOLhyphen"/>temn the Laws, and Trample on Prerogative. Adieu.</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>I am Yours.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
